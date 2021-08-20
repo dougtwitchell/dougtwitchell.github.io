@@ -91,8 +91,8 @@ Additionally, send the same thing to [Microsoft Support](https://support.microso
 
 ## Download Windows 10
 
-1) After logging into Azure Dev Tools for Teaching, you should see a page that says "Welcome to the Education Hub."  Click on `Software` in the left-hand navigation menu.
-2) Search for "Windows 10" and choose "Windows 10 (consumer editions) or Windows 10 (consumer editions) version 2004." 
+1) After logging into Azure Dev Tools for Teaching, you should see a page that says "Welcome to the Education Hub."  Click on `Download Software` .
+2) Search for "Windows 10" and choose "Windows 10 Education, version 21H1 – DVD" 
 3) Click on "View Key" and copy the Product Key.  Copy it and save it somewhere for later.
 4) Click on the Download button to download Windows 10 as a DVD image.
 
