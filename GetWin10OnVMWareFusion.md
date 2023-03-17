@@ -37,7 +37,7 @@ The process has three major steps:
 4) Verify your email address by clicking on the appropriate link in the email sent to you
 5) Go back to [The VMWare Fusion Personal License Page](https://my.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) and login with your account
 6) You should see your License Key in the License Information.  You will need this later.
-7) Download VMWare Fusion 12 by clicking on the `Manually Download` button in the Download Packages section
+7) Download VMWare Fusion 13 by clicking on the `Manually Download` button in the Download Packages section
 
 ## Install VMWare Fusion
 
