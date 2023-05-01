@@ -133,7 +133,7 @@ At this point, you have a running Windows 10 virtual machine.  Using the virtual
     <figcaption>Obtain and install Microsoft Office including Microsoft Access</figcaption>
 </figure>
 
-1) Inside your Windows 10 virtual machine in VMWare Fusion use Internet Explorer to go to [https://www.boisestate.edu/oit-software/microsoft-office/student-advantage-microsoft-office-365-proplus/](https://www.boisestate.edu/oit-software/microsoft-office/student-advantage-microsoft-office-365-proplus/)
+1) Inside your Windows 10 virtual machine in VMWare Fusion use Internet Explorer to go to [https://www.boisestate.edu/oit-software/microsoft-office/student-advantage-microsoft-office-365-proplus/](https://www.boisestate.edu/oit/software/microsoft-office/microsoft-365-for-students/)
 2) Scroll down and find and press the `Download Software` button
 3) Sign in using your boisestate.edu username and password
 4) Click on `Install Office` in the upper-right corner of the Office 365 screen
